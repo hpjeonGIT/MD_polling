@@ -1,15 +1,5 @@
 /*  REED_2007C_MPI
 
-Parallel REED code for radiation damage analysis of UO2
-Coding started: Jan. 28, 2008
-By Department of Applied Science, University of California, Davis
-Byoungseon Jeon, Graduate student
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-Basically, the REED_2007C follows the scheme of Beardmore and Gr{\o}bech-Jensen
-of PRE vol 57, pp.7278--7287, 1998
-
 Basic operation is same as a serial version. The code is implemented with
 MPI library for simulations with distributed memory systems.
 
